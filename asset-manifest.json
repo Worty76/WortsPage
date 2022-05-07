@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WortsPage/static/css/main.620b8392.css",
-    "main.js": "/WortsPage/static/js/main.66eca63e.js",
+    "main.js": "/WortsPage/static/js/main.0dcbd8f3.js",
     "static/media/fa-solid-900.ttf": "/WortsPage/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/fa-brands-400.ttf": "/WortsPage/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/fa-solid-900.woff2": "/WortsPage/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/WortsPage/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/WortsPage/index.html",
     "main.620b8392.css.map": "/WortsPage/static/css/main.620b8392.css.map",
-    "main.66eca63e.js.map": "/WortsPage/static/js/main.66eca63e.js.map"
+    "main.0dcbd8f3.js.map": "/WortsPage/static/js/main.0dcbd8f3.js.map"
   },
   "entrypoints": [
     "static/css/main.620b8392.css",
-    "static/js/main.66eca63e.js"
+    "static/js/main.0dcbd8f3.js"
   ]
 }

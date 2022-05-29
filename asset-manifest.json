@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WortsPage/static/css/main.58ad23b1.css",
-    "main.js": "/WortsPage/static/js/main.7b9d76db.js",
+    "main.css": "/WortsPage/static/css/main.801f3d19.css",
+    "main.js": "/WortsPage/static/js/main.07886b77.js",
     "static/media/fa-solid-900.ttf": "/WortsPage/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/fa-brands-400.ttf": "/WortsPage/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/fa-solid-900.woff2": "/WortsPage/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
@@ -12,11 +12,11 @@
     "static/media/fa-v4compatibility.ttf": "/WortsPage/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
     "static/media/fa-v4compatibility.woff2": "/WortsPage/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/WortsPage/index.html",
-    "main.58ad23b1.css.map": "/WortsPage/static/css/main.58ad23b1.css.map",
-    "main.7b9d76db.js.map": "/WortsPage/static/js/main.7b9d76db.js.map"
+    "main.801f3d19.css.map": "/WortsPage/static/css/main.801f3d19.css.map",
+    "main.07886b77.js.map": "/WortsPage/static/js/main.07886b77.js.map"
   },
   "entrypoints": [
-    "static/css/main.58ad23b1.css",
-    "static/js/main.7b9d76db.js"
+    "static/css/main.801f3d19.css",
+    "static/js/main.07886b77.js"
   ]
 }
